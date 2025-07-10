@@ -21,7 +21,7 @@ Many students face difficulty in choosing the right career path due to the lack 
 
 ## 📂 Dataset
 
-- **Title**: [Computer Science Students Career Prediction]((https://www.kaggle.com/datasets/devildyno/computer-science-students-career-prediction))  
+- **Title**: [Computer Science Students Career Prediction](https://www.kaggle.com/datasets/devildyno/computer-science-students-career-prediction)  
 - **Source**: Kaggle  
 - **Features**:
   - `Age`
