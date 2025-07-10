@@ -107,7 +107,8 @@ Open career_predictor.py in Google Colab or Jupyter Notebook.
 ---
 
 ## 📬 Contact
+---
 -Suhani Dwivedi
--Computer Science Engineering
+- 🎓 B.Tech CSE | KIIT University
 -📧 suhanidwivedi2k5@gmail.com
 -🌐 [linkedin.com](https://www.linkedin.com/in/suhani-dwivedi)
