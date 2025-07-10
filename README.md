@@ -2,8 +2,6 @@
 
 An intelligent machine learning system that recommends suitable career paths for computer science students based on their academic data, interests, and demographics. Developed as part of the **AICTE-Edunet-Microsoft AI Internship**.
 
-![Confusion Matrix](assets/confusion_matrix.png) <!-- Add your actual image if available -->
-
 ---
 
 ## 🧠 Problem Statement
@@ -62,7 +60,7 @@ Many students face difficulty in choosing the right career path due to the lack 
 
 ## 📈 Results
 
-- ✅ **Test Accuracy**: **92%**
+- ✅ **Test Accuracy**: **94%**
 - 🔍 High precision and recall across most career classes
 - 📊 Strong generalization to unseen data
 
@@ -108,7 +106,7 @@ Open career_predictor.py in Google Colab or Jupyter Notebook.
 
 ## 📬 Contact
 ---
--Suhani Dwivedi
+- Suhani Dwivedi
 - 🎓 B.Tech CSE | KIIT University
--📧 suhanidwivedi2k5@gmail.com
--🌐 [linkedin.com](https://www.linkedin.com/in/suhani-dwivedi)
+- 📧 suhanidwivedi2k5@gmail.com
+- 🌐 [linkedin.com](https://www.linkedin.com/in/suhani-dwivedi)
